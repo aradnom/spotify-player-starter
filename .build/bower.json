@@ -1,0 +1,14 @@
+{
+  "name": "player-api",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "modernizr": "latest",
+    "angular": "latest",
+    "angular-sanitize": "latest",
+    "angular-resource": "latest",
+    "underscore": "~1.8.3",
+    "angular-spotify": "~0.12.0"
+  },
+  "devDependencies": {}
+}
